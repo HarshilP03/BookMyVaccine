@@ -1,8 +1,6 @@
 # Book My Vaccine
 An iOS app that serves as a medium for people to book COVID-19 vaccines from the comfort of their homes.
 
-## App Demo
-[Link to Video](https://player.vimeo.com/video/515028720)
 
 ## What It Does
 We wanted to highlight the fact that the general masses are now getting vaccinated and we wanted to help more to this process. So we created BookMyVaccine. 
